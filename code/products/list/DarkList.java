@@ -1,4 +1,4 @@
-package products.list;
+package code.products.list;
 
 public class DarkList implements List {
     public void listSomething(){

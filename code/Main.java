@@ -1,15 +1,15 @@
-/*
+package code;/*
 Abstract Factory Pattern code example
 @author Lucas Agra de Omena
 @Instituto de Computação - UFAL
 */
 
-import factory.DarkThemeFactory;
-import factory.LightThemeFactory;
-import factory.ThemeFactory;
-import products.button.*;
-import products.list.*;
-import products.text.*;
+import code.factory.DarkThemeFactory;
+import code.factory.LightThemeFactory;
+import code.factory.ThemeFactory;
+import code.products.button.*;
+import code.products.list.*;
+import code.products.text.*;
 
 public class Main {
 

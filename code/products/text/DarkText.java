@@ -1,4 +1,4 @@
-package products.text;
+package code.products.text;
 
 public class DarkText implements Text {
     public void getColor(){

@@ -1,8 +1,8 @@
-package factory;
+package code.factory;
 
-import products.button.*;
-import products.list.*;
-import products.text.*;
+import code.products.button.*;
+import code.products.list.*;
+import code.products.text.*;
 
 public class LightThemeFactory implements ThemeFactory {
 

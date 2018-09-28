@@ -1,4 +1,4 @@
-package products.button;
+package code.products.button;
 
 public interface Button {
     public void doSomething();

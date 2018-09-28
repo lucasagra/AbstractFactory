@@ -1,4 +1,4 @@
-package products.text;
+package code.products.text;
 
 public class LightText implements Text {
     public void getColor(){

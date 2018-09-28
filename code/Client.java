@@ -1,7 +1,9 @@
-import factory.ThemeFactory;
-import products.button.Button;
-import products.list.List;
-import products.text.Text;
+package code;
+
+import code.factory.ThemeFactory;
+import code.products.button.Button;
+import code.products.list.List;
+import code.products.text.Text;
 
 public class Client {
 

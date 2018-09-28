@@ -1,4 +1,4 @@
-package products.button;
+package code.products.button;
 
 public class LightButton implements Button {
     public void doSomething(){

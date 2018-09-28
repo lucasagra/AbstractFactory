@@ -1,4 +1,4 @@
-package products.list;
+package code.products.list;
 
 public interface List {
     public void listSomething();
